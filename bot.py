@@ -50,7 +50,7 @@ I can approve users in Groups/Channels.Add me to your chat and promote me to adm
     button = [[
             InlineKeyboardButton('💎JOIN CHANNEL✅️', url='https://t.me/+f16LP7YW2G03MzM1')
             ],[
-            InlineKeyboardButton('📣UPDATES🔔', url='https://t.me/+FCUs6o6FXSZkNjc6')
+            InlineKeyboardButton('📣UPDATES🔔', url='https://t.me/+uyvbk8Lq6YwxYzM1')
     ]]
     await m.reply_photo(
         photo='https://telegra.ph/file/7e184ab744d9aaa329a63.jpg', 
