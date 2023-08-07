@@ -24,7 +24,7 @@ async def autoapprove(c, m):
         button = [[
             InlineKeyboardButton('🎬JOIN MOVIE CHANNEL🎬', url='https://t.me/+9JsGhjucwsozYjdl')
             ],[
-            InlineKeyboardButton('💎JOIN MOVIE GROUP📽️', url='https://t.me/+iiJvauon_6Q1Njk1')
+            InlineKeyboardButton('💎JOIN MOVIE GROUP📽️', url='https://t.me/+IibT56jM6gU2NzZl')
         ]]
         markup = InlineKeyboardMarkup(button)
         caption = f'Hello {m.from_user.mention()}\nYou Request To Join {m.chat.title} Was Approved.'
